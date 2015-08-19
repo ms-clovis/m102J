@@ -4,6 +4,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/validate_blog.py
+/validate.py
 # C extensions
 *.so
 
